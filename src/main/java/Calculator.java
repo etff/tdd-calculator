@@ -13,4 +13,8 @@ public class Calculator {
         }
         return minus(x - 1, y -1 );
     }
+
+    public int multiply(int x, int y) {
+        return x * y;
+    }
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-12T23:58:34" hostname="ByungHoui-MacBookPro.local" time="0.004">
+<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-13T00:24:35" hostname="ByungHoui-MacBookPro.local" time="0.003">
   <properties/>
-  <testcase name="minus" classname="CalculatorTest" time="0.004"/>
+  <testcase name="multiply" classname="CalculatorTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
